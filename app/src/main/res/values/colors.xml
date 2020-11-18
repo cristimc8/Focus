@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="back5">#242d2d</color>
+    <color name="something">#f08a2b</color>
+    <color name="blueish">#326fa8</color>
+    <color name="lightseablue">#26a69a</color>
+    <color name="transparentblueish">#65326fa8</color>
+    <color name="darkblue">#103661</color>
+    <color name="pinkish">#db3eec</color>
+</resources>
